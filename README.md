@@ -14,7 +14,7 @@ This is an R package, so you need to install [R](https://www.r-project.org/) on 
 
 1. Getting the data via API
 - [For a signle grid point](Jupyter-R/download-single-point.ipynb)
-- [For multiple grid points](Jupyter-R/download-single-point.ipynb)
+- [For multiple grid points](Jupyter-R/download-multiple-points.ipynb)
 2. something
 
 ## License
