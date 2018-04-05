@@ -12,7 +12,7 @@ This is an R package, so you need to install [R](https://www.r-project.org/) on 
 
 ### Table of contents
 
-- [Getting the PSM3 data (for a single point)](Jupyter-R/SEDB-S-1.ipynb)
+- [Getting the PSM3 data (for a single point)](Jupyter-R/download-single-point.ipynb)
 
 
 ## License
