@@ -12,9 +12,10 @@ This is an R package, so you need to install [R](https://www.r-project.org/) on 
 
 ### Table of contents
 
-1 Getting the data via API
+1. Getting the data via API
 - [For a signle grid point](Jupyter-R/download-single-point.ipynb)
-
+- [For multiple grid points](Jupyter-R/download-single-point.ipynb)
+2. something
 
 ## License
 
